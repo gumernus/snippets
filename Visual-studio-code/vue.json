@@ -1,1 +1,24 @@
-
+{
+	"Component": {
+		"prefix": ".component",
+		"body": [
+		  "<template>",
+		  "$1",
+		  "</template>",
+		  "",
+		  "<script>",
+		  "export default {",
+		  "  name: 'Template',",
+		  "  props: {",
+		  "    msg: String",
+		  "  }",
+		  "}",
+		  "</script>",
+		  "",
+		  "<style scoped>",
+		  "</style>",
+		  ""
+		],
+		"description": "Component"
+	  }
+}
